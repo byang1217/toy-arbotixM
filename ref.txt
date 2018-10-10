@@ -10,3 +10,21 @@ ref code:
 https://github.com/Interbotix/InterbotixArmFirmwareStandalone
 
 
+ref doc:
+http://www.vanadiumlabs.com/docs.html
+
+http://vanadiumlabs.github.io/arbotix/
+http://vanadiumlabs.github.io/arbotix/codebook.html
+http://vanadiumlabs.github.io/pypose/
+
+tools:
+https://github.com/vanadiumlabs/pypose
+
+
+tips:
+
+Servo Terminal
+===================
+(ref to: http://vanadiumlabs.github.io/pypose/)
+The servo terminal is a useful tool for configuring servos that are connected to an ArbotiX or USBDynamixel. It currently implements only a subset of it's eventual commands. It can currently be used to query an ArbotiX to find out what servos are attached, or to change the ID number of a servo:
+
