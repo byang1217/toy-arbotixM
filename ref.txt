@@ -17,6 +17,10 @@ http://vanadiumlabs.github.io/arbotix/
 http://vanadiumlabs.github.io/arbotix/codebook.html
 http://vanadiumlabs.github.io/pypose/
 
+AX-12A spec:
+ihttp://emanual.robotis.com/docs/en/dxl/ax/ax-12a/
+http://emanual.robotis.com/docs/en/dxl/protocol1/
+
 tools:
 https://github.com/vanadiumlabs/pypose
 
